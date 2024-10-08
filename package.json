@@ -2,6 +2,7 @@
   "name": "mnotebook",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@craco/craco": "^7.1.0",
     "@reduxjs/toolkit": "^2.2.7",
@@ -25,7 +26,7 @@
   },
   "scripts": {
     "start": "craco start",
-    "predeploy" : "npm run build",
+    "predeploy" : "pnpm run build",
     "deploy" : "gh-pages-d build",
     "build": "craco build",
     "test": "react-scripts test",
