@@ -2,7 +2,7 @@
   "name": "mnotebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://awm2077.github.io/ACbook/",
   "dependencies": {
     "@craco/craco": "^7.1.0",
     "@reduxjs/toolkit": "^2.2.7",
