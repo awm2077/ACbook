@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.02443d7a.css",
-    "main.js": "./static/js/main.9101e7ea.js",
-    "index.html": "./index.html",
-    "main.02443d7a.css.map": "./static/css/main.02443d7a.css.map",
-    "main.9101e7ea.js.map": "./static/js/main.9101e7ea.js.map"
+    "main.css": "/ACbook/static/css/main.02443d7a.css",
+    "main.js": "/ACbook/static/js/main.9101e7ea.js",
+    "index.html": "/ACbook/index.html",
+    "main.02443d7a.css.map": "/ACbook/static/css/main.02443d7a.css.map",
+    "main.9101e7ea.js.map": "/ACbook/static/js/main.9101e7ea.js.map"
   },
   "entrypoints": [
     "static/css/main.02443d7a.css",
