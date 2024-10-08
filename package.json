@@ -27,7 +27,7 @@
   "scripts": {
     "start": "craco start & pnpm run server",
     "predeploy" : "pnpm run build",
-    "deploy" : "gh-pages-d dist",
+    "deploy" : "gh-pages-d build",
     "build": "craco build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
